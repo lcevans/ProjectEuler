@@ -1,0 +1,12 @@
+Just need to assemble prime factors of all numbers form 1 to 20
+
+2,2,2,2
+3,3
+5
+7
+11
+13
+17
+19
+
+and take their product
