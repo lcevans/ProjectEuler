@@ -1,0 +1,1 @@
+40 moves, 20 are down and 20 are right =>  40 choose 20
